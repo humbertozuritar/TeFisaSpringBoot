@@ -5,7 +5,7 @@ Proyecto `spring-boot` para el establecimiento Te-Fisa que posee las siguientes 
 
 > Nota: Profe el documento esta en `docs/AVANCE PROYECTO FINAL 5.docx`
 
-![Informe final](./docs/AVANCE PROYECTO FINAL 5.docx)
+![Informe final](docs/AvanceProyectoFinal5.docx)
 
 ## Requerimientos
 
